@@ -15,7 +15,6 @@ p.Heading{
 	background-color:red ;
 	padding:10px;
 	border: 5px solid black;
-	width:200px;
 	font-size: 175%;
 	float: right;
 }
@@ -24,25 +23,23 @@ p.Heading{
 .box1 {
   background-color: grey;
   margin-top: 30px;
-  width:333px;
   margin-bottom: :30px;
   margin-left: 45px;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 .box2 {
   background-color: grey;
   margin-top: 30px;
-  width:333px;
   margin-bottom: :30px;
   margin-left: 45px;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 .box3 {
   background-color: grey;
   margin-top: 30px;
-  width:333px;
   margin-bottom: :30px;
   margin-left: 45px;
+  margin-right: 20px;
 }
 .content {
   background-color: grey; 
@@ -54,7 +51,7 @@ p.Heading{
 
 .row {
   width: 100%;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -75,7 +72,7 @@ p.Heading{
     width: 33.33%;
   }
   .col-lg-5 {
-    width: 41.66%;
+    width: 45.83%;
   }
   .col-lg-6 {
     width: 50%;
