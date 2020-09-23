@@ -79,6 +79,9 @@ h3{
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   Header 
+button.navbar-toggle{
+	margin-bottom: 30px;
+}
   .navbar-brand {
     padding-top: 10px;
     height: 15px;
